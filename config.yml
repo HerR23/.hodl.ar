@@ -24,11 +24,11 @@ blocks:
 
   - title: Instagram
     icon: instagram
-    url: https://www.instagram.com/lacryptaok/
+    url: https://www.instagram.com/her.russo/
 
 # - title: Twitter
 #   icon: twitter
-#   url: https://twitter.com/TU-USUARIO
+#   url: https://twitter.com/HerrRusso
     
 # - title: LinkedIn # Este es el nombre del botón
 #   icon: linkedin # Este es el nombre del icono (si queres añadir una red social nueva, prestá atencion que es todo con minúscula)
@@ -36,11 +36,11 @@ blocks:
 
 # - title: Github
 #   icon: github
-#   url: https://github.com/TU-USUARIO
+#   url: https://github.com/HerR23
 
 # - title: Sitio Web
 #   icon: url
-#   url: https://www.TU-WEB.com
+#   url: https://www.notengoweb.com
 
 # - title: Telegram
 #   icon: telegram
