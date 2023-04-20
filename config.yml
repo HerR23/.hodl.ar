@@ -15,7 +15,7 @@ theme:
 
 # Configuración Central
 main:
-  title: Hernan # Aca podes poner tu nombre o el de tu producto
+  title: Hernán # Aca podes poner tu nombre o el de tu producto
 
 # Lista de bloques
 blocks:
@@ -38,9 +38,9 @@ blocks:
    icon: github
    url: https://github.com/HerR23
 
-- title: Nostr
-  icon: Nostr
-  url: https://iris.to/herr
+# - title: Nostr
+#  icon: Nostr
+#  url: https://iris.to/herr
 
 # - title: Sitio Web
 #   icon: url
